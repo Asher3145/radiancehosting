@@ -7,18 +7,39 @@
     "collection": ""
   },
   {
-    "title": "blue orca",
+    "title": "orca (blue)",
     "imageUrl": "https://cdn.discordapp.com/attachments/1355993896940736615/1355994026746183973/Dark_Blue.png?ex=67eaf359&is=67e9a1d9&hm=1234d8e9c2ce1016be5b9f685ca06068374162731a25b57623bb55edd7e2b416&",
     "artist": "Asher Dipprey",
     "ai": "none",
-    "collection": ""
+    "collection": "Orca"
   },
   {
-    "title": "red orca",
+    "title": "orca (red)",
     "imageUrl": "https://cdn.discordapp.com/attachments/1355993896940736615/1355994029552308437/Dark_Red.png?ex=67eaf359&is=67e9a1d9&hm=a5b006b435b35aef1e66d43689aedd905d65dc37f17901cbc4e1446d4e851d79&",
     "artist": "Asher Dipprey",
     "ai": "none",
-    "collection": ""
+    "collection": "Orca"
+  },
+{
+    "title": "orca (sky blue)",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1355993896940736615/1356171398074204170/Light_Blue.png?ex=67eb9889&is=67ea4709&hm=a7ddf514172e0c8bbdf2926293dc6007af4499a9dd26fdb0c9b230999b724db0&",
+    "artist": "Asher Dipprey",
+    "ai": "none",
+    "collection": "Orca"
+  },
+{
+    "title": "orca (lavendar)",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1355993896940736615/1356171400812953765/Light_Lavendar.png?ex=67eb988a&is=67ea470a&hm=b2e3a60a3b557eeceeec96a77502df55fcdfdee8e4ab0792535b9d5a13f28e6b&",
+    "artist": "Asher Dipprey",
+    "ai": "none",
+    "collection": "Orca"
+  },
+{
+    "title": "orca (dark)",
+    "imageUrl": "https://cdn.discordapp.com/attachments/1355993896940736615/1356171403463753768/Dark.png?ex=67eb988b&is=67ea470b&hm=e39116934f2e6fe328a1fb09e4ae27adbdc202176e8b0195444f951a072eb0e9&",
+    "artist": "Asher Dipprey",
+    "ai": "none",
+    "collection": "Orca"
   },
   {
     "title": "solano canyon",
