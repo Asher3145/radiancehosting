@@ -2,22 +2,32 @@
   {
 	"title": "piece by piece",
 	"imageUrl": "https://cdn.discordapp.com/attachments/1355993896940736615/1355994072803967167/iOS_19_concept_02.png?ex=67eaf364&is=67e9a1e4&hm=af925592441c9a9b646ffde3ea93e60f2cb95d775a16731a50e75a7010d86173&",
-	"artist": "Asher Dipprey"
+	"artist": "Asher Dipprey",
+	"ai": "none"
   },
   {
 	"title": "blue orca",
 	"imageUrl": "https://cdn.discordapp.com/attachments/1355993896940736615/1355994026746183973/Dark_Blue.png?ex=67eaf359&is=67e9a1d9&hm=1234d8e9c2ce1016be5b9f685ca06068374162731a25b57623bb55edd7e2b416&",
- 	 "artist": "Asher Dipprey"
+ 	 "artist": "Asher Dipprey",
+	"ai": "none"
 },
 {
 	"title": "red orca",
 	"imageUrl": "https://cdn.discordapp.com/attachments/1355993896940736615/1355994029552308437/Dark_Red.png?ex=67eaf359&is=67e9a1d9&hm=a5b006b435b35aef1e66d43689aedd905d65dc37f17901cbc4e1446d4e851d79&",
-	"artist": "Asher Dipprey"
+	"artist": "Asher Dipprey",
+	"ai": "none"
   },
 {
 	"title": "solano canyon",
 	"imageUrl": "https://cdn.discordapp.com/attachments/1355993896940736615/1356006833705193695/Dark_iPhone_1.png?ex=67eaff46&is=67e9adc6&hm=147e8fd08effe73f3e2237bac8e501a305d1c85c6324ace42ad6a9e21048b90e&",
-	"artist": "Private Talky"
+	"artist": "Private Talky",
+	"ai": "none"
+  },
+{
+	"title": "midnight vinyard",
+	"imageUrl": "https://cdn.discordapp.com/attachments/1355993896940736615/1356033462737567975/iOS_19_Wallpaper.png?ex=67eb1813&is=67e9c693&hm=6540d17075d790feb8fc799bbff96978d179aa66536ba588e980c1afd88dbd63&",
+	"artist": "Asher Dipprey",
+	"ai": "none"
   }
 
 
