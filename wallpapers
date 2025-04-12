@@ -265,4 +265,32 @@
     "ai": "none",
     "collection": "FlowState"
   },
+{
+    "title": "Cupertino Spaceship 1",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/Cupertino%20Spaceship.png?alt=media&token=e68236bf-be62-4e11-9f87-ff1f8097734f",
+    "artist": "@AppleTLDR",
+    "ai": "none",
+    "collection": "Cupertino Spaceship"
+  },
+{
+    "title": "Cupertino Spaceship 2",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/Cupertino%20spaceship%202.png?alt=media&token=ed0531c3-4f5a-4ab9-8761-1f32add2e1f4",
+    "artist": "@AppleTLDR",
+    "ai": "none",
+    "collection": "Cupertino Spaceship"
+  },
+{
+    "title": "Cupertino Spaceship 3",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/Cupertino%20spaceship%203.png?alt=media&token=fac610e6-82ef-4e1b-9ac9-e4313ee0be1b",
+    "artist": "@AppleTLDR",
+    "ai": "none",
+    "collection": "Cupertino Spaceship"
+  },
+{
+    "title": "Cupertino Spaceship 4",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/cupertion%20spaceship%204.png?alt=media&token=ff86ac35-a6c8-472c-b43e-f80709f20904",
+    "artist": "@AppleTLDR",
+    "ai": "none",
+    "collection": "Cupertino Spaceship"
+  },
 ]
