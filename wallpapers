@@ -294,8 +294,6 @@
     "collection": "Cupertino Spaceship"
   },
 
-  /* ------------- NEW PRIVATE TALKY WALLPAPERS ------------- */
-
   {
     "title": "Safari (Cofffee)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/Privatetalky%20Safari%20(Cofffee).png?alt=media",
@@ -416,98 +414,98 @@
     "collection": "Orb"
   },
   {
-    "title": "Pink",
+    "title": "Lightspeed (Pink)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/PrivateTalky%20Pink.png?alt=media",
     "artist": "Private Talky",
     "ai": "none",
-    "collection": ""
+    "collection": "Lightspeed"
   },
   {
-    "title": "Sunrise",
+    "title": "Lightspeed (Sunrise)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/PrivateTalky%20Sunrise.png?alt=media",
     "artist": "Private Talky",
     "ai": "none",
-    "collection": ""
+    "collection": "Lightspeed"
   },
   {
-    "title": "Aura",
+    "title": "Lightspeed (Aura)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/PrivateTalky%20Aura.png?alt=media",
     "artist": "Private Talky",
     "ai": "none",
-    "collection": ""
+    "collection": "Lightspeed"
   },
   {
-    "title": "Desert",
+    "title": "Lightspeed (Desert)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/PrivateTalky%20Desert.png?alt=media",
     "artist": "Private Talky",
     "ai": "none",
-    "collection": ""
+    "collection": "Lightspeed"
   },
   {
-    "title": "Purple",
+    "title": "Lightspeed (Purple)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/PrivateTalky%20Purple.png?alt=media",
     "artist": "Private Talky",
     "ai": "none",
-    "collection": ""
+    "collection": "Lightspeed"
   },
   {
-    "title": "Retro",
+    "title": "Lightspeed (Retro)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/PrivateTalky%20Retro.png?alt=media",
     "artist": "Private Talky",
     "ai": "none",
-    "collection": ""
+    "collection": "Lightspeed"
   },
   {
-    "title": "Dark",
+    "title": "Lightspeed (Dark)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/PrivateTalky%20Dark.png?alt=media",
     "artist": "Private Talky",
     "ai": "none",
-    "collection": ""
+    "collection": "Lightspeed"
   },
   {
-    "title": "Teal",
+    "title": "Lightspeed (Teal)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/PrivateTalky%20Teal.png?alt=media",
     "artist": "Private Talky",
     "ai": "none",
-    "collection": ""
+    "collection": "Lightspeed"
   },
   {
-    "title": "Haze 3",
+    "title": "Haze 1",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/Privatetalky%20Haze%203.png?alt=media",
     "artist": "Private Talky",
     "ai": "none",
     "collection": "Haze"
   },
   {
-    "title": "Haze 9",
+    "title": "Haze 2",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/Privatetalky%20Haze%209.png?alt=media",
     "artist": "Private Talky",
     "ai": "none",
     "collection": "Haze"
   },
   {
-    "title": "Haze 4",
+    "title": "Haze 3",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/Privatetalky%20Haze%204.png?alt=media",
     "artist": "Private Talky",
     "ai": "none",
     "collection": "Haze"
   },
   {
-    "title": "Haze 6",
+    "title": "Haze 4",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/Privatetalky%20Haze%206.png?alt=media",
     "artist": "Private Talky",
     "ai": "none",
     "collection": "Haze"
   },
   {
-    "title": "Haze 8",
+    "title": "Haze 5",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/Privatetalky%20Haze%208.png?alt=media",
     "artist": "Private Talky",
     "ai": "none",
     "collection": "Haze"
   },
   {
-    "title": "Haze 5",
+    "title": "Haze 6",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/Privatetalky%20Haze%205.png?alt=media",
     "artist": "Private Talky",
     "ai": "none",
@@ -521,14 +519,14 @@
     "collection": "Haze"
   },
   {
-    "title": "Haze 1",
+    "title": "Haze 8",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/Privatetalky%20Haze%201.png?alt=media",
     "artist": "Private Talky",
     "ai": "none",
     "collection": "Haze"
   },
   {
-    "title": "Haze 2",
+    "title": "Haze 9",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/Privatetalky%20Haze%202.png?alt=media",
     "artist": "Private Talky",
     "ai": "none",
@@ -542,105 +540,105 @@
     "collection": "Halo"
   },
   {
-    "title": "Halo Down",
+    "title": "Halo (Down)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/PrivateTalky%20Halo%20Down.png?alt=media",
     "artist": "Private Talky",
     "ai": "none",
     "collection": "Halo"
   },
   {
-    "title": "Halo Moonlight Mobile",
+    "title": "Halo (Moonlight)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/PrivateTalky%20Halo%20Moonlight%20Mobile.png?alt=media",
     "artist": "Private Talky",
     "ai": "none",
     "collection": "Halo"
   },
   {
-    "title": "Halo Aurora Mobile",
+    "title": "Halo (Aurora)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/PrivateTalky%20Halo%20Aurora%20Mobile.png?alt=media",
     "artist": "Private Talky",
     "ai": "none",
     "collection": "Halo"
   },
   {
-    "title": "Halo Night Mobile",
+    "title": "Halo (Night)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/PrivateTalky%20Halo%20Night%20Mobile.png?alt=media",
     "artist": "Private Talky",
     "ai": "none",
     "collection": "Halo"
   },
   {
-    "title": "Halo Golden Hour Mobile",
+    "title": "Halo (Golden Hour)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/PrivateTalky%20Halo%20Golden%20Hour%20Mobile.png?alt=media",
     "artist": "Private Talky",
     "ai": "none",
     "collection": "Halo"
   },
   {
-    "title": "Halo Atmosphere Mobile",
+    "title": "Halo (Atmosphere)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/PrivateTalky%20Halo%20Atmosphere%20Mobile.png?alt=media",
     "artist": "Private Talky",
     "ai": "none",
     "collection": "Halo"
   },
   {
-    "title": "Halo White Mobile",
+    "title": "Halo (White)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/PrivateTalky%20Halo%20White%20Mobile.png?alt=media",
     "artist": "Private Talky",
     "ai": "none",
     "collection": "Halo"
   },
   {
-    "title": "Eclipse Chroma",
+    "title": "Eclipse (Chroma)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/PrivateTalky%20Eclipse%20Chroma.png?alt=media",
     "artist": "Private Talky",
     "ai": "none",
     "collection": "Eclipse"
   },
   {
-    "title": "Eclipse Gold",
+    "title": "Eclipse (Gold)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/PrivateTalky%20Eclipse%20Gold.png?alt=media",
     "artist": "Private Talky",
     "ai": "none",
     "collection": "Eclipse"
   },
   {
-    "title": "Eclipse Red",
+    "title": "Eclipse (Red)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/PrivateTalky%20Eclipse%20Red.png?alt=media",
     "artist": "Private Talky",
     "ai": "none",
     "collection": "Eclipse"
   },
   {
-    "title": "Eclipse Blue Deep",
+    "title": "Eclipse (Deep Blue)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/PrivateTalky%20Eclipse%20Blue%20Deep.png?alt=media",
     "artist": "Private Talky",
     "ai": "none",
     "collection": "Eclipse"
   },
   {
-    "title": "Eclipse Navy",
+    "title": "Eclipse (Navy)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/PrivateTalky%20Eclipse%20Navy.png?alt=media",
     "artist": "Private Talky",
     "ai": "none",
     "collection": "Eclipse"
   },
   {
-    "title": "Eclipse Blue",
+    "title": "Eclipse (Blue)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/PrivateTalky%20Eclipse%20Blue.png?alt=media",
     "artist": "Private Talky",
     "ai": "none",
     "collection": "Eclipse"
   },
   {
-    "title": "Chimgan Light",
+    "title": "Chimgan (Light)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/PrivateTalky%20Chimgan%20Light.png?alt=media",
     "artist": "Private Talky",
     "ai": "none",
     "collection": "Chimgan"
   },
   {
-    "title": "Chimgan Dark",
+    "title": "Chimgan (Dark)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/PrivateTalky%20Chimgan%20Dark.png?alt=media",
     "artist": "Private Talky",
     "ai": "none",
