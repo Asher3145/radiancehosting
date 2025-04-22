@@ -4,294 +4,287 @@
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/iOS%2019%20concept%2002.png?alt=media&token=0aaa2972-4263-4547-be58-bc4f4d4d2122",
     "artist": "Asher Dipprey",
     "collection": "",
-    "tags": []
+    "tags": ["colorful", "abstract", "shapes", "pink", "blocks", "minimal"]
   },
   {
     "title": "orca (blue)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/Orca%20(ocean%20blue).png?alt=media&token=ade87d58-311a-4a6b-a970-38964471d0c3",
     "artist": "Asher Dipprey",
     "collection": "Orca",
-    "tags": []
+    "tags": ["clean", "minimal", "ocean", "shapes", "gradient", "masks", "blue"]
   },
   {
     "title": "orca (red)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/Orca%20(red).png?alt=media&token=fb3321ec-7a46-481c-a7ff-922eb4d0fb48",
     "artist": "Asher Dipprey",
     "collection": "Orca",
-    "tags": []
+    "tags": ["clean", "minimal", "ocean", "shapes", "gradient", "masks", "red"]
   },
   {
     "title": "orca (sky blue)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/Orca%20(sky%20blue).png?alt=media&token=0a6919a9-98d7-413a-a70c-e86577da5de3",
     "artist": "Asher Dipprey",
     "collection": "Orca",
-    "tags": []
+    "tags": ["clean", "minimal", "ocean", "shapes", "gradient", "masks", "blue"]
   },
   {
     "title": "orca (lavendar)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/Orca%20(lavendar).png?alt=media&token=204455f1-573f-430b-a13c-c9a76dc19139",
     "artist": "Asher Dipprey",
     "collection": "Orca",
-    "tags": []
+    "tags": ["clean", "minimal", "ocean", "shapes", "gradient", "masks", "pink", "purple", "lavendar"] 
   },
   {
     "title": "orca (dark)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/Orca%20(dark).png?alt=media&token=0de7a94b-10cf-4ffa-b81c-966a32e812ef",
     "artist": "Asher Dipprey",
     "collection": "Orca",
-    "tags": []
+	    "tags": ["clean", "minimal", "ocean", "shapes", "gradient", "masks", "dark", "black"]
   },
   {
     "title": "solano canyon",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/Solano%20Canyon%20(dark).png?alt=media&token=cdf6eaa0-2c58-40d1-b2ce-824912692d2a",
     "artist": "Private Talky",
     "collection": "",
-    "tags": []
+    "tags": ["nature", "abstract", "illustration", "clean", "minimal", "colorful", "red", "blue", "outdoors"]
   },
   {
     "title": "midnight vinyard",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/Midnight%20Vinyard.png?alt=media&token=60bf4af9-4f86-4314-b11a-ab044faae293",
     "artist": "Asher Dipprey",
     "collection": "",
-    "tags": []
-  },
-  {
-    "title": "dune drift",
-    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/Dune%20Drift.png?alt=media&token=f701165e-5748-47a0-ac33-350791231f96",
-    "artist": "Asher Dipprey",
-    "collection": "",
-    "tags": []
+    "tags": ["abstract", "night", "dark", "black", "fpt", "ios19", "shapes", "moon"]
   },
   {
     "title": "tango ribbon",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/lines%20(tango).png?alt=media&token=6cacc27f-f200-49a3-8835-e20c2c576ae8",
     "artist": "Lostliano",
     "collection": "",
-    "tags": []
+    "tags": ["lines", "abstract", "tubes", "colorful", "tropical", "pink"]
   },
   {
     "title": "shockwave",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/dish.png?alt=media&token=851b2f6a-cda3-48a9-8676-e4e86d599ddd",
     "artist": "Lostliano",
     "collection": "",
-    "tags": []
+    "tags": ["abstract", "shapes", "colorful", "teal", "circles"]
   },
   {
     "title": "hummus",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/hummus.png?alt=media&token=640c230f-6ec7-4e42-8faa-9748b96287a4",
     "artist": "Lostliano",
     "collection": "",
-    "tags": []
+    "tags": ["colorful", "gradient", "sploches"]
   },
   {
     "title": "lines (dark)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/lines%20(dark).png?alt=media&token=1ff87a8f-b6c4-4eae-abcb-6d86049c53ae",
     "artist": "Lostliano",
     "collection": "Liano Lines",
-    "tags": []
+    "tags": ["lines", "abstract", "tubes", "colorful", "dark", "purple"]
   },
   {
     "title": "lines (color)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/lines%20(color).png?alt=media&token=66ec4e9b-272a-40f0-a470-b800e82d4c6c",
     "artist": "Lostliano",
     "collection": "Liano Lines",
-    "tags": []
+    "tags": ["lines", "abstract", "tubes", "colorful", "light", "colorful"]
   },
   {
     "title": "lines (light)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/lines%20(light).png?alt=media&token=031af401-dfbd-41fc-851e-869411094d98",
     "artist": "Lostliano",
     "collection": "Liano Lines",
-    "tags": []
+    "tags": ["lines", "abstract", "tubes", "colorful", "light", "colorful"]
   },
   {
     "title": "Just in Time (sky blue)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/Just%20in%20time%20blue.png?alt=media&token=640af6be-0162-4d12-9754-bcb7b685bb3c",
     "artist": "Oofus",
     "collection": "Just in Time",
-    "tags": []
+    "tags": ["glass", "shapes", "ios19", "muted", "light", "blue"]
   },
   {
     "title": "Just in Time (beige)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/metal_brown.png?alt=media&token=f9271a6f-512e-40ee-ac9a-5d3320c5be97",
     "artist": "Oofus",
     "collection": "Just in Time",
-    "tags": []
+    "tags": ["glass", "shapes", "ios19", "muted", "light", "yellow", "beige"]
   },
   {
     "title": "Just in Time (yellow)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/metal_gold.png?alt=media&token=6eaee3df-48e5-4558-ad73-c6b465fa2178",
     "artist": "Oofus",
     "collection": "Just in Time",
-    "tags": []
+    "tags": ["glass", "shapes", "ios19", "muted", "light", "yellow"]
   },
   {
     "title": "Just in Time (pink)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/metal_pink.png?alt=media&token=4a64aaa7-ef54-465b-8b76-50a408f10887",
     "artist": "Oofus",
     "collection": "Just in Time",
-    "tags": []
+    "tags": ["glass", "shapes", "ios19", "muted", "light", "yellow", "pink"]
   },
   {
     "title": "Just in Time (mercury)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/metal_stainless.png?alt=media&token=ab3a0d9a-8326-41d0-a632-de228cca3c54",
     "artist": "Oofus",
     "collection": "Just in Time",
-    "tags": []
+    "tags": ["glass", "shapes", "ios19", "muted", "light", "white"]
   },
   {
     "title": "Just in Time (tangerine)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/orange.png?alt=media&token=558933c8-f55e-4e9e-b997-0af255ebd15e",
     "artist": "Oofus",
     "collection": "Just in Time",
-    "tags": []
+    "tags": ["glass", "shapes", "ios19", "colorful", "light", "orange"]
   },
   {
     "title": "Just in Time (blue)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/blue.png?alt=media&token=eefffa27-5fd0-4e1f-a2ea-98abb16d2c25",
     "artist": "Oofus",
     "collection": "Just in Time",
-    "tags": []
+    "tags": ["glass", "shapes", "ios19", "colorful", "light", "blue"]
   },
   {
     "title": "pinpoint (turquoise)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/pinpoint%20(teal).png?alt=media&token=7b14c376-2268-4b04-bd15-fcfcecfe8f8a",
     "artist": "kdc",
     "collection": "pinpoint",
-    "tags": []
+    "tags": ["abstract", "light", "point", "etherial", "teal"]
   },
   {
     "title": "pinpoint (blue)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/pinpoint%20(blue).png?alt=media&token=40262fe8-e228-4f87-bdf6-bb90f15a483d",
     "artist": "kdc",
     "collection": "pinpoint",
-    "tags": []
+    "tags": ["abstract", "light", "point", "etherial", "blue"]
   },
   {
     "title": "pinpoint (gold)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/pinpoint%20(gold).png?alt=media&token=0caefec1-7073-4ba3-ba51-dcc433c5ba69",
     "artist": "kdc",
     "collection": "pinpoint",
-    "tags": []
+    "tags": ["abstract", "light", "point", "etherial", "gold", "yellow"]
   },
   {
     "title": "pinpoint (red)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/pinpoint%20(rose).png?alt=media&token=fbf9a1fb-8eba-4ee6-b778-e235ced5a5ce",
     "artist": "kdc",
     "collection": "pinpoint",
-    "tags": []
+    "tags": ["abstract", "light", "point", "etherial", "red", "pink"]
   },
   {
     "title": "Grainy Day 1",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/Aurora.jpg?alt=media&token=792e75a3-cf3e-4e11-83b8-0dc9cf49b54d",
     "artist": "GV Designs",
     "collection": "Grainy Day",
-    "tags": []
+    "tags": ["gradient", "grainy", "texture", "noise", "peach", "blue"]
   },
   {
     "title": "Grainy Day 2",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/Blue-Green.jpg?alt=media&token=63b99b58-c4a6-461f-a330-7216721927f9",
     "artist": "GV Designs",
     "collection": "Grainy Day",
-    "tags": []
+    "tags": ["gradient", "grainy", "texture", "noise", "blue", "green"]
   },
   {
     "title": "Grainy Day 3",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/Dark%20Hues.jpg?alt=media&token=61278070-4a15-4e5a-8c4d-73b207311db0",
     "artist": "GV Designs",
     "collection": "Grainy Day",
-    "tags": []
+    "tags": ["gradient", "grainy", "texture", "noise", "dark", "muted", "blue/green"]
   },
   {
     "title": "Grainy Day 4",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/Deep%20Purple.jpg?alt=media&token=31a197a6-b954-44b7-932b-d940207ebbd2",
     "artist": "GV Designs",
     "collection": "Grainy Day",
-    "tags": []
+    "tags": ["gradient", "grainy", "texture", "noise", "dark", "muted", "purple"]
   },
   {
     "title": "Grainy Day 5",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/Lilac.jpg?alt=media&token=fb1e5ff7-a41b-47e5-8057-070440ece061",
     "artist": "GV Designs",
     "collection": "Grainy Day",
-    "tags": []
+    "tags": ["gradient", "grainy", "texture", "noise", "dark", "colorful", "purple"]
   },
   {
     "title": "Grainy Day 6",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/Mint%20Green.jpg?alt=media&token=2f091b78-317f-43cc-98f0-e65d9c4f0b1a",
     "artist": "GV Designs",
     "collection": "Grainy Day",
-    "tags": []
+    "tags": ["gradient", "grainy", "texture", "noise", "dark", "colorful", "green"]
   },
   {
     "title": "Grainy Day 7",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/Orange%20Hues.jpg?alt=media&token=16cef49c-2395-4eb1-8a86-75b5e27b9ac3",
     "artist": "GV Designs",
     "collection": "Grainy Day",
-    "tags": []
+    "tags": ["gradient", "grainy", "texture", "noise", "dark", "colorful", "orange"]
   },
   {
     "title": "Flow State (dark)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/FlowState%201.png?alt=media&token=a38ed7e6-d451-470e-bf92-8a8e231032a0",
     "artist": "Asher Dipprey",
     "collection": "FlowState",
-    "tags": []
+    "tags": ["abstract", "bubbles", "shapes", "dark", "blue", "purple", "red"]
   },
   {
     "title": "Flow State (light)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/FlowState%205.png?alt=media&token=10fe6771-ba3b-4d0d-82f4-027da6efab00",
     "artist": "Asher Dipprey",
     "collection": "FlowState",
-    "tags": []
+    "tags": ["abstract", "bubbles", "shapes", "light", "blue", "purple", "red"]
   },
   {
     "title": "Flow State (blue)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/FlowState%202.png?alt=media&token=5d346e08-3d15-4517-ae30-90b8defd5ad2",
     "artist": "Asher Dipprey",
     "collection": "FlowState",
-    "tags": []
+    "tags": ["abstract", "bubbles", "shapes", "dark", "blue"]
   },
   {
     "title": "Flow State (green)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/FlowState%204.png?alt=media&token=db22bfdc-2307-4983-aace-994d93f1e978",
     "artist": "Asher Dipprey",
     "collection": "FlowState",
-    "tags": []
+    "tags": ["abstract", "bubbles", "shapes", "dark", "green"]
   },
   {
     "title": "Flow State (red)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/FlowState%203.png?alt=media&token=4a483bf8-563f-4108-82a6-f6c617bfd966",
     "artist": "Asher Dipprey",
     "collection": "FlowState",
-    "tags": []
+    "tags": ["abstract", "bubbles", "shapes", "light", "red"]
   },
   {
     "title": "Cupertino Spaceship 1",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/Cupertino%20Spaceship.png?alt=media&token=e68236bf-be62-4e11-9f87-ff1f8097734f",
     "artist": "@AppleTLDR",
     "collection": "Cupertino Spaceship",
-    "tags": []
+    "tags": ["shotoniphone", "apple", "architecture", "photography"]
   },
   {
     "title": "Cupertino Spaceship 2",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/Cupertino%20spaceship%202.png?alt=media&token=ed0531c3-4f5a-4ab9-8761-1f32add2e1f4",
     "artist": "@AppleTLDR",
     "collection": "Cupertino Spaceship",
-    "tags": []
+    "tags": ["shotoniphone", "apple", "architecture", "photography"]
   },
   {
     "title": "Cupertino Spaceship 3",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/Cupertino%20spaceship%203.png?alt=media&token=fac610e6-82ef-4e1b-9ac9-e4313ee0be1b",
     "artist": "@AppleTLDR",
     "collection": "Cupertino Spaceship",
-    "tags": []
+    "tags": ["shotoniphone", "apple", "architecture", "photography"]
   },
   {
     "title": "Cupertino Spaceship 4",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/cupertion%20spaceship%204.png?alt=media&token=ff86ac35-a6c8-472c-b43e-f80709f20904",
     "artist": "@AppleTLDR",
     "collection": "Cupertino Spaceship",
-    "tags": []
+    "tags": ["shotoniphone", "apple", "architecture", "photography"]
   },
 
   {
@@ -299,259 +292,259 @@
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/Privatetalky%20Safari%20(Cofffee).png?alt=media",
     "artist": "Private Talky",
     "collection": "Safari",
-    "tags": []
+    "tags": ["abstract", "cards", "shapes", "flat", "colorful", "orange", "brown"]
   },
   {
     "title": "Safari (Light)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/Privatetalky%20Safari%20(Light).png?alt=media",
     "artist": "Private Talky",
     "collection": "Safari",
-    "tags": []
+    "tags": ["abstract", "cards", "shapes", "flat", "colorful", "rainbow", "multicolor"]
   },
   {
     "title": "Safari (Dew)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/Privatetalky%20Safari%20(Dew).png?alt=media",
     "artist": "Private Talky",
     "collection": "Safari",
-    "tags": []
+    "tags": ["abstract", "cards", "shapes", "flat", "muted", "green"]
   },
   {
     "title": "Safari (RetroVibe)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/Privatetalky%20Safari%20(RetroVibe).png?alt=media",
     "artist": "Private Talky",
     "collection": "Safari",
-    "tags": []
+    "tags": ["abstract", "cards", "shapes", "flat", "colorful", "rainbow", "multicolor", "dark"]
   },
   {
     "title": "Safari (Vibe Retro)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/Privatetalky%20Safari%20(Vibe%20Retro).png?alt=media",
     "artist": "Private Talky",
     "collection": "Safari",
-    "tags": []
+    "tags": ["abstract", "cards", "shapes", "flat", "colorful", "rainbow", "multicolor", "light"]
   },
   {
     "title": "Safari (Stroke Retro)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/Privatetalky%20Safari%20(Stroke%20Retro).png?alt=media",
     "artist": "Private Talky",
     "collection": "Safari",
-    "tags": []
+    "tags": ["abstract", "cards", "shapes", "flat", "colorful", "rainbow", "multicolor", "light"]
   },
   {
     "title": "Safari (Dark)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/Privatetalky%20Safari%20(Dark).png?alt=media",
     "artist": "Private Talky",
     "collection": "Safari",
-    "tags": []
+    "tags": ["abstract", "cards", "shapes", "flat", "colorful", "rainbow", "multicolor", "dark"]
   },
   {
     "title": "Safari (Sierra)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/Privatetalky%20Safari%20(Sierra).png?alt=media",
     "artist": "Private Talky",
     "collection": "Safari",
-    "tags": []
+    "tags": ["abstract", "cards", "shapes", "flat", "muted", "light", "white"]
   },
   {
     "title": "Safari (Dew Dark)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/Privatetalky%20Safari%20(Dew%20Dark).png?alt=media",
     "artist": "Private Talky",
     "collection": "Safari",
-    "tags": []
+    "tags": ["abstract", "cards", "shapes", "flat", "muted", "dark", "green"]
   },
   {
     "title": "Safari (Tangerine)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/Privatetalky%20Safari%20(Tangerine).png?alt=media",
     "artist": "Private Talky",
     "collection": "Safari",
-    "tags": []
+    "tags": ["abstract", "cards", "shapes", "flat", "muted", "dark", "yellow", "orange"]
   },
   {
     "title": "Safari (Espresso)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/Privatetalky%20Safari%20(Espresso).png?alt=media",
     "artist": "Private Talky",
     "collection": "Safari",
-    "tags": []
+    "tags": ["abstract", "cards", "shapes", "flat", "muted", "dark", "yellow", "brown"]
   },
   {
     "title": "Orb (Color)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/PrivateTalky%20Orb%20(Color).png?alt=media",
     "artist": "Private Talky",
     "collection": "Orb",
-    "tags": []
+    "tags": ["abstract", "bubble", "ball", "glass", "light", "multicolor", "colorful"]
   },
   {
     "title": "Orb (Pink)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/PrivateTalky%20Orb%20(Pink).png?alt=media",
     "artist": "Private Talky",
     "collection": "Orb",
-    "tags": []
+    "tags": ["abstract", "bubble", "ball", "glass", "light", "pink"]
   },
   {
     "title": "Orb (Ultramarine)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/PrivateTalky%20Orb%20(Ultramarine).png?alt=media",
     "artist": "Private Talky",
     "collection": "Orb",
-    "tags": []
+    "tags": ["abstract", "bubble", "ball", "glass", "light", "blue", "purple"]
   },
   {
     "title": "Orb (Teal)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/PrivateTalky%20Orb%20(Teal).png?alt=media",
     "artist": "Private Talky",
     "collection": "Orb",
-    "tags": []
+    "tags": ["abstract", "bubble", "ball", "glass", "light", "teal"]
   },
   {
     "title": "Orb (Blue)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/PrivateTalky%20Orb%20(Blue).png?alt=media",
     "artist": "Private Talky",
     "collection": "Orb",
-    "tags": []
+    "tags": ["abstract", "bubble", "ball", "glass", "dark", "blue"]
   },
   {
     "title": "Orb (Black)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/PrivateTalky%20Orb%20(Black).png?alt=media",
     "artist": "Private Talky",
     "collection": "Orb",
-    "tags": []
+    "tags": ["abstract", "bubble", "ball", "glass", "dark"]
   },
   {
     "title": "Lightspeed (Pink)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/PrivateTalky%20Pink.png?alt=media",
     "artist": "Private Talky",
     "collection": "Lightspeed",
-    "tags": []
+    "tags": ["line", "shape", "minimal", "clean", "abstract", "pink"]
   },
   {
     "title": "Lightspeed (Sunrise)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/PrivateTalky%20Sunrise.png?alt=media",
     "artist": "Private Talky",
     "collection": "Lightspeed",
-    "tags": []
+    "tags": ["line", "shape", "minimal", "clean", "abstract", "blue", "red", "peach"]
   },
   {
     "title": "Lightspeed (Aura)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/PrivateTalky%20Aura.png?alt=media",
     "artist": "Private Talky",
     "collection": "Lightspeed",
-    "tags": []
+    "tags": ["line", "shape", "minimal", "clean", "abstract", "purple", "blue"]
   },
   {
     "title": "Lightspeed (Desert)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/PrivateTalky%20Desert.png?alt=media",
     "artist": "Private Talky",
     "collection": "Lightspeed",
-    "tags": []
+    "tags": ["line", "shape", "minimal", "clean", "abstract", "yellow", "orange"]
   },
   {
     "title": "Lightspeed (Purple)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/PrivateTalky%20Purple.png?alt=media",
     "artist": "Private Talky",
     "collection": "Lightspeed",
-    "tags": []
+    "tags": ["line", "shape", "minimal", "clean", "abstract", "purple"]
   },
   {
     "title": "Lightspeed (Retro)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/PrivateTalky%20Retro.png?alt=media",
     "artist": "Private Talky",
     "collection": "Lightspeed",
-    "tags": []
+    "tags": ["line", "shape", "minimal", "clean", "abstract", "yellow", "red"]
   },
   {
     "title": "Lightspeed (Dark)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/PrivateTalky%20Dark.png?alt=media",
     "artist": "Private Talky",
     "collection": "Lightspeed",
-    "tags": []
+    "tags": ["line", "shape", "minimal", "clean", "abstract", "black", "white"]
   },
   {
     "title": "Lightspeed (Teal)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/PrivateTalky%20Teal.png?alt=media",
     "artist": "Private Talky",
     "collection": "Lightspeed",
-    "tags": []
+    "tags": ["line", "shape", "minimal", "clean", "abstract", "teal"]
   },
   {
     "title": "Haze 1",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/Privatetalky%20Haze%203.png?alt=media",
     "artist": "Private Talky",
     "collection": "Haze",
-    "tags": []
+    "tags": ["gradient", "shape", "minimal", "mask", "abstract", "yellow/blue"]
   },
   {
     "title": "Haze 2",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/Privatetalky%20Haze%209.png?alt=media",
     "artist": "Private Talky",
     "collection": "Haze",
-    "tags": []
+    "tags": ["gradient", "shape", "minimal", "mask", "abstract", "pink"]
   },
   {
     "title": "Haze 3",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/Privatetalky%20Haze%204.png?alt=media",
     "artist": "Private Talky",
     "collection": "Haze",
-    "tags": []
+    "tags": ["gradient", "shape", "minimal", "mask", "abstract", "pink", "green"]
   },
   {
     "title": "Haze 4",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/Privatetalky%20Haze%206.png?alt=media",
     "artist": "Private Talky",
     "collection": "Haze",
-    "tags": []
+    "tags": ["gradient", "shape", "minimal", "mask", "abstract", "orange"]
   },
   {
     "title": "Haze 5",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/Privatetalky%20Haze%208.png?alt=media",
     "artist": "Private Talky",
     "collection": "Haze",
-    "tags": []
+    "tags": ["gradient", "shape", "minimal", "mask", "abstract", "red", "blue"]
   },
   {
     "title": "Haze 6",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/Privatetalky%20Haze%205.png?alt=media",
     "artist": "Private Talky",
     "collection": "Haze",
-    "tags": []
+    "tags": ["gradient", "shape", "minimal", "mask", "abstract", "red", "yellow"]
   },
   {
     "title": "Haze 7",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/Privatetalky%20Haze%207.png?alt=media",
     "artist": "Private Talky",
     "collection": "Haze",
-    "tags": []
+    "tags": ["gradient", "shape", "minimal", "mask", "abstract", "pink", "yellow"]
   },
   {
     "title": "Haze 8",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/Privatetalky%20Haze%201.png?alt=media",
     "artist": "Private Talky",
     "collection": "Haze",
-    "tags": []
+    "tags": ["gradient", "shape", "minimal", "mask", "abstract", "pink", "blue"]
   },
   {
     "title": "Haze 9",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/Privatetalky%20Haze%202.png?alt=media",
     "artist": "Private Talky",
     "collection": "Haze",
-    "tags": []
+    "tags": ["gradient", "shape", "minimal", "mask", "abstract", "white", "blue", "light"]
   },
   {
     "title": "Halo Gradient",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/PrivateTalky%20Halo%20Gradient.png?alt=media",
     "artist": "Private Talky",
     "collection": "Halo",
-    "tags": []
+    "tags": ["circular", "colorful", "abstract", "blue", "yellow", "light"]
   },
   {
     "title": "Halo (Down)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/PrivateTalky%20Halo%20Down.png?alt=media",
     "artist": "Private Talky",
     "collection": "Halo",
-    "tags": []
+    "tags": ["circular", "colorful", "abstract", "blue", "yellow", "dark"]
   },
   {
     "title": "Halo (Moonlight)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/PrivateTalky%20Halo%20Moonlight%20Mobile.png?alt=media",
     "artist": "Private Talky",
     "collection": "Halo",
-    "tags": []
+    "tags": ["circular", "colorful", "abstract", "blue", "night", "dark"]
   },
   {
     "title": "Halo (Aurora)",
@@ -565,111 +558,111 @@
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/PrivateTalky%20Halo%20Night%20Mobile.png?alt=media",
     "artist": "Private Talky",
     "collection": "Halo",
-    "tags": []
+    "tags": ["circular", "colorful", "abstract", "blue", "red", "dark"]
   },
   {
     "title": "Halo (Golden Hour)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/PrivateTalky%20Halo%20Golden%20Hour%20Mobile.png?alt=media",
     "artist": "Private Talky",
     "collection": "Halo",
-    "tags": []
+    "tags": ["circular", "colorful", "abstract", "white", "yellow", "orange", "dark"]
   },
   {
     "title": "Halo (Atmosphere)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/PrivateTalky%20Halo%20Atmosphere%20Mobile.png?alt=media",
     "artist": "Private Talky",
     "collection": "Halo",
-    "tags": []
+    "tags": ["circular", "colorful", "abstract", "blue", "light"]
   },
   {
     "title": "Halo (White)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/PrivateTalky%20Halo%20White%20Mobile.png?alt=media",
     "artist": "Private Talky",
     "collection": "Halo",
-    "tags": []
+    "tags": ["circular", "colorful", "abstract", "black", "dark"]
   },
   {
     "title": "Eclipse (Chroma)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/PrivateTalky%20Eclipse%20Chroma.png?alt=media",
     "artist": "Private Talky",
     "collection": "Eclipse",
-    "tags": []
+    "tags": ["abstract", "bubble", "ball", "glass", "pink", "gold", "colorful"]
   },
   {
     "title": "Eclipse (Gold)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/PrivateTalky%20Eclipse%20Gold.png?alt=media",
     "artist": "Private Talky",
     "collection": "Eclipse",
-    "tags": []
+    "tags": ["abstract", "bubble", "ball", "glass", "yellow", "gold"]
   },
   {
     "title": "Eclipse (Red)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/PrivateTalky%20Eclipse%20Red.png?alt=media",
     "artist": "Private Talky",
     "collection": "Eclipse",
-    "tags": []
+    "tags": ["abstract", "bubble", "ball", "glass", "dark", "red"]
   },
   {
     "title": "Eclipse (Deep Blue)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/PrivateTalky%20Eclipse%20Blue%20Deep.png?alt=media",
     "artist": "Private Talky",
     "collection": "Eclipse",
-    "tags": []
+    "tags": ["abstract", "bubble", "ball", "glass", "light", "blue"]
   },
   {
     "title": "Eclipse (Navy)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/PrivateTalky%20Eclipse%20Navy.png?alt=media",
     "artist": "Private Talky",
     "collection": "Eclipse",
-    "tags": []
+    "tags": ["abstract", "bubble", "ball", "glass", "light", "blue"]
   },
   {
     "title": "Eclipse (Blue)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/PrivateTalky%20Eclipse%20Blue.png?alt=media",
     "artist": "Private Talky",
     "collection": "Eclipse",
-    "tags": []
+    "tags": ["abstract", "bubble", "ball", "glass", "dark", "blue"]
   },
   {
     "title": "Chimgan (Light)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/PrivateTalky%20Chimgan%20Light.png?alt=media",
     "artist": "Private Talky",
     "collection": "Chimgan",
-    "tags": []
+    "tags": ["abstract", "colorful", "layers", "flat", "light", "green", "blue"]
   },
   {
     "title": "Chimgan (Dark)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/PrivateTalky%20Chimgan%20Dark.png?alt=media",
     "artist": "Private Talky",
     "collection": "Chimgan",
-    "tags": []
+    "tags": ["abstract", "colorful", "layers", "flat", "dark", "green", "blue"]
   },
   {
     "title": "Auravale (Twilight)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/PrivateTalky%20Auravale%20Twilight.png?alt=media",
     "artist": "Private Talky",
     "collection": "Auravale",
-    "tags": []
+    "tags": ["abstract", "colorful", "landscape", "flat", "dark", "orange"]
   },
   {
     "title": "Auravale (Midnight)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/PrivateTalky%20Auravale%20Midnight.png?alt=media",
     "artist": "Private Talky",
     "collection": "Auravale",
-    "tags": []
+    "tags": ["abstract", "colorful", "landscape", "flat", "dark", "purple"]
   },
   {
     "title": "Auravale (Night)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/PrivateTalky%20Auravale%20Night.png?alt=media",
     "artist": "Private Talky",
     "collection": "Auravale",
-    "tags": []
+    "tags": ["abstract", "colorful", "landscape", "flat", "dark"]
   },
   {
     "title": "Auravale (Daylight)",
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/PrivateTalky%20Auravale%20Daylight.png?alt=media",
     "artist": "Private Talky",
     "collection": "Auravale",
-    "tags": []
+    "tags": ["abstract", "colorful", "landscape", "flat", "light"]
   }
 ]
