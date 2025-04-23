@@ -720,5 +720,104 @@
     "artist": "Asher Dipprey",
     "collection": "Texas Towers",
     "tags": ["tower", "architecture", "texas", "houston", "shapes", "blue"]
+  },
+{
+    "title": "Lime Light",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/TWYST%20Lime%20Light.png?alt=media&token=a7ddb50e-a2b1-44b5-b37c-668d1cd4dcc8",
+    "artist": "Private Talky",
+    "collection": "TWYST",
+    "tags": ["abstract", "shapes", "tubes", "colorful", "gradient", "yellow"]
+  },
+{
+    "title": "Lime Dark",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/TWYST%20Orchidaze%20Light.png?alt=media&token=d807d2d6-33d1-4cdd-9395-fa310f8929b7",
+    "artist": "Private Talky",
+    "collection": "TWYST",
+    "tags": ["abstract", "shapes", "tubes", "colorful", "gradient", "yellow", "dark"]
+  },
+{
+    "title": "Cherry Light",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/TWYST%20Cherry%20Light.png?alt=media&token=99add587-5a0f-4526-9aad-2e3044593ad3",
+    "artist": "Private Talky",
+    "collection": "TWYST",
+    "tags": ["abstract", "shapes", "tubes", "colorful", "gradient", "pink", "red", "light"]
+  },
+{
+    "title": "Cherry Dark",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/TWYST%20Cherry%20Dark.png?alt=media&token=334ebda2-b95c-451c-afee-cf0c394e08c1",
+    "artist": "Private Talky",
+    "collection": "TWYST",
+    "tags": ["abstract", "shapes", "tubes", "colorful", "gradient", "pink", "red", "dark"]
+  },
+{
+    "title": "Coral Light",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/TWYST%20Coral%20Light.png?alt=media&token=4401e4e7-4934-4536-82c6-d690ae649e9d",
+    "artist": "Private Talky",
+    "collection": "TWYST",
+    "tags": ["abstract", "shapes", "tubes", "colorful", "gradient", "red", "orange", "light"]
+  },
+{
+    "title": "Coral Dark",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/TWYST%20Coral%20Dark.png?alt=media&token=44315c11-de3e-4e09-b0ca-9e102a516977",
+    "artist": "Private Talky",
+    "collection": "TWYST",
+    "tags": ["abstract", "shapes", "tubes", "colorful", "gradient", "red", "orange", "dark"]
   }
+{
+    "title": "Orchidaze Light",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/TWYST%20Orchidaze%20Light.png?alt=media&token=d807d2d6-33d1-4cdd-9395-fa310f8929b7",
+    "artist": "Private Talky",
+    "collection": "TWYST",
+    "tags": ["abstract", "shapes", "tubes", "colorful", "gradient", "purple"]
+  },
+{
+    "title": "Berrywave Light",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/TWYST%20Berrywave%20Light.png?alt=media&token=c46adc77-6d43-459b-bc0a-dff3d77767f4",
+    "artist": "Private Talky",
+    "collection": "TWYST",
+    "tags": ["abstract", "shapes", "tubes", "colorful", "gradient", "blue", "light"]
+  },
+{
+    "title": "Berrywave Dark",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/TWYST%20Berrywave%20Dark.png?alt=media&token=e1fc9221-b5a7-4931-8148-4f6506c7b3f9",
+    "artist": "Private Talky",
+    "collection": "TWYST",
+    "tags": ["abstract", "shapes", "tubes", "colorful", "gradient", "blue", "Dark"]
+  },
+{
+    "title": "Evermint Light",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/TWYST%20Evermint%20Light.png?alt=media&token=2c474c56-a301-4c79-b67b-8203ddda0b5f",
+    "artist": "Private Talky",
+    "collection": "TWYST",
+    "tags": ["abstract", "shapes", "tubes", "colorful", "gradient", "green", "Light"]
+  },
+{
+    "title": "Evermint Dark",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/TWYST%20Evermint%20Dark.png?alt=media&token=8ccfc4de-04ce-4e26-9d61-aad99cdfff9a",
+    "artist": "Private Talky",
+    "collection": "TWYST",
+    "tags": ["abstract", "shapes", "tubes", "colorful", "gradient", "green", "Dark"]
+  },
+{
+    "title": "Velvet Light",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/TWYST%20Velvet%20Light.png?alt=media&token=cc46493d-4cad-4dd5-a10e-707076fc52d9",
+    "artist": "Private Talky",
+    "collection": "TWYST",
+    "tags": ["abstract", "shapes", "tubes", "colorful", "gradient", "pink", "light"]
+  },
+{
+    "title": "Velvet Dark",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/TWYST%20Velvet%20Dark.png?alt=media&token=12e28986-f014-4a41-9493-b5aedb71320d",
+    "artist": "Private Talky",
+    "collection": "TWYST",
+    "tags": ["abstract", "shapes", "tubes", "colorful", "gradient", "pink", "dark"]
+  },
+{
+    "title": "Mono TWYST",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/TWYST%20Mono.png?alt=media&token=b94c424c-4f1b-4c6a-95b8-323f3d857355",
+    "artist": "Private Talky",
+    "collection": "TWYST",
+    "tags": ["abstract", "shapes", "tubes", "colorful", "gradient", "mono", "dark"]
+  },
+
 ]
