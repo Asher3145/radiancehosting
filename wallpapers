@@ -699,5 +699,26 @@
     "artist": "Asher Dipprey",
     "collection": "Nectar",
     "tags": ["fluid", "abstract", "liquid", "bubble", "fpt", "ios19", "light", "multicolor", "pink", "yellow"]
+  },
+{
+    "title": "The Independant",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/The%20Independant.png?alt=media&token=4c942f97-cce1-4705-bd3d-d0f05aef489f",
+    "artist": "Asher Dipprey",
+    "collection": "Texas Towers",
+    "tags": ["tower", "architecture", "texas", "austin", "shapes", "blue"]
+  },
+{
+    "title": "JP. Morgan",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/JP.%20Morgan.png?alt=media&token=42224010-ff07-416e-8fde-02b7cbbb3cc2",
+    "artist": "Asher Dipprey",
+    "collection": "Texas Towers",
+    "tags": ["tower", "architecture", "texas", "dallas", "shapes", "blue"]
+  },
+{
+    "title": "America Tower",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/wallpaper-objects.firebasestorage.app/o/Americas%20Tower.png?alt=media&token=092aaa63-965e-4ecd-aadf-19523565af15",
+    "artist": "Asher Dipprey",
+    "collection": "Texas Towers",
+    "tags": ["tower", "architecture", "texas", "houston", "shapes", "blue"]
   }
 ]
